@@ -13,9 +13,13 @@ O objetivo do projeto é organizar um modelo padronizado de documentação técn
 3. HTML e CSS
 4. Markdown
 
-## Documentos Disponíveis
+## Documentos disponíveis
 
-- Modelo de Procedimento Técnico
-- Modelo de Stack Docker
-- Modelo de Backup e Restauração
-- Política de Documentação Segura
+- [Modelo de Procedimento Técnico](docs/modelo-procedimento-tecnico.md)
+- [Modelo de Stack Docker](docs/modelo-stack-docker.md)
+- [Modelo de Backup e Restauração](docs/modelo-backup-restore.md)
+- [Política de Documentação Segura](docs/politica-documentacao-segura.md)
+
+## Observação de segurança
+
+Este repositório contém uma versão demonstrativa e sanitizada da documentação técnica. Não foram incluídas senhas, tokens, IPs sensíveis, dados de clientes, arquivos de configuração reais ou informações críticas da infraestrutura da empresa.
