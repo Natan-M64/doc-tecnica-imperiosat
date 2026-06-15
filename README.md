@@ -9,7 +9,7 @@ O objetivo do projeto é organizar um modelo padronizado de documentação técn
 ## Tecnologias e ferramentas utilizadas
 
 1. GitHub
-2. Google Drive/Docs
+2. Google Drive
 3. HTML e CSS
 4. Markdown
 
